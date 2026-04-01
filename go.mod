@@ -1,3 +1,3 @@
-module github.com/mehulkapadia5/magnitude-go
+module github.com/magnitude-app/magnitude-go
 
 go 1.25.6

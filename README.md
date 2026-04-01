@@ -5,7 +5,7 @@ Go SDK for [Magnitude](https://magnitude.so) analytics. Zero dependencies — pu
 ## Install
 
 ```bash
-go get github.com/mehulkapadia5/magnitude-go
+go get github.com/magnitude-app/magnitude-go
 ```
 
 ## Quick Start
@@ -15,7 +15,7 @@ package main
 
 import (
     "time"
-    magnitude "github.com/mehulkapadia5/magnitude-go"
+    magnitude "github.com/magnitude-app/magnitude-go"
 )
 
 func main() {
